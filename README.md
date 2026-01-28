@@ -6,9 +6,14 @@ This project analyzes e-commerce sales data using SQL to understand revenue tren
 How are sales performing over time, and which customers and products drive the most revenue?
 
 ## Dataset
-- E-commerce sales data  
-- One row represents one order  
-- Includes information about orders, customers, and revenue
+- E-commerce sales data composed of multiple related tables
+- Includes information about orders, customers, products, payments, and reviews
+
+## Project Structure
+- `README.md` — project overview and objectives  
+- `data_dictionary.md` — dataset structure, granularity, and table relationships  
+- `sql/` — SQL queries and analysis  
+- `data/` — dataset source and notes (raw data not included due to size)
 
 ## Approach
 1. Explore the data structure
