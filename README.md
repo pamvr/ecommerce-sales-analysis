@@ -23,6 +23,8 @@ How are sales performing over time, and which customers and products drive the m
 
 ## Tools
 - SQL
+- SQLite (local database used for analysis)
+- Git
 - GitHub
 
 ## Status
